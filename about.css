@@ -1,0 +1,26 @@
+.container
+ {
+     position: absolute;
+   width: 1440px;
+height: 450px;
+left: 0px;
+top: 0px;;
+background: #d9d9d9;
+
+ }
+
+  .font
+  {
+    position: absolute;
+  height: 78px;
+width: 310px;
+left: 565px;
+top: 222px;
+border-radius: nullpx;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 78px;
+
+}
